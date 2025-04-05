@@ -23,7 +23,7 @@ A lightweight, secure Command Line Notes App built using C++. It supports encryp
 ### 📝 Main Menu
 ![Main Menu](assets/Screenshot%202025-04-05%20200312.png)
 
-### 🔒 Private Note Prompt
+### 🔒 List Note Prompt
 ![Private Note Prompt](assets/Screenshot%202025-04-05%20200359.png)
 
 ---
