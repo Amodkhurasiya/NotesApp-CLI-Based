@@ -29,7 +29,7 @@ A lightweight, secure Command Line Notes App built using C++. It supports encryp
 
 2. Clone the repo:
  
-git clone https://github.com/your-username/notes-cli-app.git
+git clone https://github.com/Amodkhurasiya/NotesApp-CLI-Based.git
 cd notes-cli-app
 mkdir notes
 g++ main.cpp -o notes-app
