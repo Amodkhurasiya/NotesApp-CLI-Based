@@ -21,3 +21,29 @@ A lightweight, secure Command Line Notes App built using C++. It supports encryp
 ## 📸 Preview
 
 
+---
+
+## 🛠️ How to Run
+
+1. Make sure you have a C++ compiler (`g++`) installed.
+
+2. Clone the repo:
+ 
+git clone https://github.com/your-username/notes-cli-app.git
+cd notes-cli-app
+mkdir notes
+g++ main.cpp -o notes-app
+./notes-app       # Linux/macOS
+notes-app.exe     # Windows (or just run in PowerShell)
+
+
+3. File Structure
+notes-cli-app/
+├── main.cpp
+├── README.md
+└── notes/
+    ├── your_note.txt
+    └── ...
+
+4. Contributing
+Contributions are welcome! Feel free to fork this repo and suggest changes.
