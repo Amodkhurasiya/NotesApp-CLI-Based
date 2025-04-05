@@ -22,8 +22,9 @@ A lightweight, secure Command Line Notes App built using C++. It supports encryp
 
 Here’s a quick look at the CLI Notes App:
 
-![Main Menu]("assets/Screenshot 2025-04-05 200312.png")
-![Private Note Prompt](assets/screenshot2.png)
+![Alt Text](assets/Screenshot 2025-04-05 200312.png)
+![Alt Text](assets/Screenshot 2025-04-05 200359.png)
+
 ---
 
 ## 🛠️ How to Run
